@@ -1,16 +1,20 @@
-### Hi there 👋
+# ¡Hola! Soy Josué 👋
 
-<!--
-**Josueviillaa/josueviillaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenidx a mi perfil de GitHub! Soy desarrollador full stack con pasión por la creación de soluciones innovadoras y la colaboración en proyectos.
 
-Here are some ideas to get you started:
+## 🔭 Actualmente estoy trabajando como Freelance y en proyectos propios de auto aprendizaje para seguir desarrollandome como developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Actualmente estoy aprendiendo Python para aplicaciones de ML, IA ya que es un mundo que me apasiona.
+
+## 👯 Estoy buscando colaborar en proyectos open source y organizaciones sin animo de lucro.
+
+## 💬 Pregúntame!
+
+## 📫 Cómo contactarme
+
+- LinkedIn: www.linkedin.com/in/josuevillaa
+- Correo electrónico: josueviillaa@duck.com
+
+Estoy abierto a nuevas oportunidades y proyectos emocionantes.
+
+
