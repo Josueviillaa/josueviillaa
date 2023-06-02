@@ -2,7 +2,7 @@
 
 ¡Bienvenidx a mi perfil! Soy desarrollador full stack con pasión por la creación de soluciones innovadoras.
 
-## 🔭 Actualmente estoy trabajando como Freelance y en proyectos propios de auto aprendizaje para seguir desarrollandome como developer.
+## Estoy trabajando como Freelance y en proyectos propios de auto aprendizaje para seguir desarrollandome como developer.
 
 ## 🌱 Actualmente estoy aprendiendo Python para aplicaciones de ML, IA ya que es un mundo que me apasiona.
 
