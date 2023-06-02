@@ -1,6 +1,6 @@
 # ¡Hola! Soy Josué 👋
 
-¡Bienvenidx a mi perfil de GitHub! Soy desarrollador full stack con pasión por la creación de soluciones innovadoras y la colaboración en proyectos.
+¡Bienvenidx a mi perfil! Soy desarrollador full stack con pasión por la creación de soluciones innovadoras.
 
 ## 🔭 Actualmente estoy trabajando como Freelance y en proyectos propios de auto aprendizaje para seguir desarrollandome como developer.
 
