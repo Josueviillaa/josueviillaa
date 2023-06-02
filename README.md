@@ -15,6 +15,6 @@
 - LinkedIn: www.linkedin.com/in/josuevillaa
 - Correo electrónico: josueviillaa@duck.com
 
-Estoy abierto a nuevas oportunidades y proyectos emocionantes.
+Estoy abierto a nuevas oportunidades.
 
 
