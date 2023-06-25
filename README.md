@@ -1,6 +1,6 @@
 # ¡Hola! Soy Josué 👋
 
-¡Bienvenidx a mi perfil! Soy desarrollador full stack con pasión por el desarrollo de IA. 
+¡Bienvenidx a mi perfil! Soy un desarrollador Junior Full-Stack
 
 ## Actualmente trabajando como Freelance y en proyectos open-source para seguir desarrollandome como developer.
 
