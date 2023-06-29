@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **open-source and own projects**
 
-- 🌱 I’m currently learning **applications of AI and ML**
+- 🌱 Currently learning **applications of AI and ML**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💬Connect with me: ![](https:linkedin.com/in/josuevillaa)</h3>
 <p align="left">
 </p>
 
