@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning **applications of AI and ML**
 
-<h3 align="left">💬Connect with me: ![https://www.linkedin.com/in/josuevillaa]</h3>
+<h3 align="left">💬Connect with me: https://www.linkedin.com/in/josuevillaa</h3>
 <p align="left">
 </p>
 
